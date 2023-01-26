@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class SampleThread extends Thread{
  String name;
  long time;  
