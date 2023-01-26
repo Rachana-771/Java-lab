@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 class SampleThread extends Thread{
  String name;
- long time; 
- Thread t;  
+ long time;  
  SampleThread (String n,long t){
    name=n;
    time=t;
